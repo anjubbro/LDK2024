@@ -1,2 +1,0 @@
-.   backups  crash  local  log   opt  snap   tmp
-..  cache    lib    lock   mail  run  spool  .updated

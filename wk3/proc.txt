@@ -1,0 +1,23 @@
+.     145  33   47   63   981            interrupts     partitions
+..    15   337  48   644  984            iomem          pressure
+1     16   339  49   65   986            ioports        schedstat
+10    17   34   5    7    995            irq            scsi
+1040  177  35   50   715  acpi           kallsyms       self
+1045  18   36   51   722  asound         kcore          slabinfo
+1046  19   367  52   73   bootconfig     keys           softirqs
+1051  2    37   53   733  buddyinfo      key-users      stat
+1100  20   376  54   736  bus            kmsg           swaps
+1101  206  38   55   746  cgroups        kpagecgroup    sys
+1159  21   387  56   748  cmdline        kpagecount     sysrq-trigger
+1160  22   395  560  75   consoles       kpageflags     sysvipc
+1195  23   4    562  76   cpuinfo        latency_stats  thread-self
+12    24   40   57   767  crypto         loadavg        timer_list
+1229  246  41   58   768  devices        locks          tty
+1248  247  42   59   77   diskstats      mdstat         uptime
+1252  28   43   594  786  dma            meminfo        version
+1262  29   44   597  82   driver         misc           version_signature
+1272  3    45   6    836  dynamic_debug  modules        vmallocinfo
+13    30   452  60   852  execdomains    mounts         vmstat
+14    31   46   61   87   fb             mtrr           zoneinfo
+143   314  466  618  9    filesystems    net
+144   32   467  625  93   fs             pagetypeinfo
